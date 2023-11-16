@@ -1,2 +1,5 @@
 # Madhav-Ecommerce-Sales-Dashboard
-this repository is a beginner friendly Power Bi dashboard ,visualizing sales of a shop enabling analysis of sales in top 5 states,top 5 customers,month by month sales trends,it also contains donut chart for visualizing catergory proportion
+OBJECTIVE-Owner of Madhav store wants us to help them create a dashboard to track and analyze their online sales across india.
+Dataset overview-the dataset includes two tables orders and details.order table contains columns named order id(pk),order date,customer name,state,city.the details table contain orderid,amount,profit,quantity,category,sub category,payment mode.
+insights-In this dashboard we made 4 kpi(key performance indicators) containg sum of amount,sum of quantity,sum of profit ,average order value(amount/orders),donut chart for finding proportion of subcategoryand sum of quantity by payment mode ,stacked bar chart for identifying top 5 ststes and top 5 customers.bar chart for analyzing month by month profit.
+through data visualization,trends in sales can be identified,such as month by month profit,aov,sum of profit.the revenue distribution showcases which are top state,top customers and which category is most in demand and which requires statergic attention.
